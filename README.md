@@ -1,0 +1,2 @@
+# AdBlockList
+YandexAdBlock
